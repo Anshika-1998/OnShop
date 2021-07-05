@@ -2,14 +2,8 @@
 GUI based Desktop Application for Online Shopping.
 A platform where user can buy or sell product item. It is connected with database to store Registration details, Product details and Shopping Details.
 
-Team Name  :  BUG BUSTERS
 
-Team Leader  :  ANSHIKA GUPTA  (Email-1705610022@bbdniit.ac.in , work-Backend and project collaboration)
-Team Members :  1) AMITA SINGH  (Email-amita48791@gmail.com  ,  work-Backend)
-                2) ANKITA SRIVASTAVA  (Email-1705610020@bbdniit.ac.in  ,  work-Database Management)
-								3) ALOK RAO  (Email-alokrao8989@gmail.com  ,  work-Frontend)
-								4) AMIT KUMAR YADAV  (Email-yadavamitkumar766262@gmail.com , work-Frontend)
-								5) ANKUR SINGH (Email-ankursingh2499@gmail.com , work-Documentation)
+  
 
 SYSTEM REQUIREMENT:   Hardware Requirement
                            Minimum RAM  :   2GB
